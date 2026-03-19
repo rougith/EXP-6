@@ -15,8 +15,9 @@ DIAGRAM:
 ![WhatsApp Image 2026-03-19 at 17 48 57](https://github.com/user-attachments/assets/10d837f4-f020-44ba-b8df-feb3dbe4b2a0)
 
 CIRCUIT DIAGRAM
+```
 ![WhatsApp Image 2026-03-19 at 18 43 47](https://github.com/user-attachments/assets/584bc9a5-5452-4571-86b9-831fb6637894)
-
+```
 PROCEDURE: -
 I. Connect the multimeter at the output of kit..
 2. Set the range to a maximum value of 10 mm.
@@ -27,8 +28,9 @@ I. Connect the multimeter at the output of kit..
 
 
 OBSERVATION TABLE
+```
 ![WhatsApp Image 2026-03-19 at 18 43 35](https://github.com/user-attachments/assets/dfd32bb3-f9f9-45c3-b836-bd61341e7258)
-
+```
 
 PRECAUTION: -
 1. The values on the multimeter should be carefully noted.
