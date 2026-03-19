@@ -19,12 +19,13 @@ CIRCUIT DIAGRAM
 ![WhatsApp Image 2026-03-19 at 18 43 47](https://github.com/user-attachments/assets/584bc9a5-5452-4571-86b9-831fb6637894)
 ...
 PROCEDURE: -
+```
 I. Connect the multimeter at the output of kit..
 2. Set the range to a maximum value of 10 mm.
 3. More the gauge from zero to maximum of 20mm.
 4. Value and note the corresponding values of voltages in the multimeter.
 5. Plot the graph between displacement and voltages on the graph paper.
-
+```
 
 
 OBSERVATION TABLE
@@ -33,9 +34,10 @@ OBSERVATION TABLE
 ...
 
 PRECAUTION: -
+```
 1. The values on the multimeter should be carefully noted.
 2. The core should be set to a maximum value of 20mm.
 3. To get the good performance from the kit, main room temperature.
 4. To check the power supply, it should be 220+!- 10% 50Hz to avoid voltage hazard.
-
+```
 RESULT: - LVDT was studied well and graph of displacement was linear for a particular range.
