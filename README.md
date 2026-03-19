@@ -29,10 +29,7 @@ I. Connect the multimeter at the output of kit..
 
 
 OBSERVATION TABLE
-
-<img width="899" height="484" alt="image" src="https://github.com/user-attachments/assets/89dd4818-592f-4b0d-9a49-be2af2efc232" />
-
-<img width="899" height="897" alt="image" src="https://github.com/user-attachments/assets/8ab4d259-e7c7-4a5f-8dab-4b5f3b5572aa" />
+![WhatsApp Image 2026-03-19 at 18 43 35](https://github.com/user-attachments/assets/05aeba6b-ce86-497b-9561-291d07e0e9a7)
 
 
 PRECAUTION: -
