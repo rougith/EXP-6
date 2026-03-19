@@ -15,11 +15,11 @@ DIAGRAM:
 ![WhatsApp Image 2026-03-19 at 17 48 57](https://github.com/user-attachments/assets/10d837f4-f020-44ba-b8df-feb3dbe4b2a0)
 
 CIRCUIT DIAGRAM
-...
+
 ![WhatsApp Image 2026-03-19 at 18 43 47](https://github.com/user-attachments/assets/584bc9a5-5452-4571-86b9-831fb6637894)
-...
-PROCEDURE: -
 ```
+PROCEDURE: -
+
 I. Connect the multimeter at the output of kit..
 2. Set the range to a maximum value of 10 mm.
 3. More the gauge from zero to maximum of 20mm.
