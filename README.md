@@ -8,7 +8,13 @@ APPARATUS: - LVDT kit, Multimeter
 THEORY: - LVDT is basically a mutual inductance type transformer with variable coupling between the primary and two secondary coils. It is equivalent to E.Pick off in its operation except the reluctance of magnetic path is mostly due to air path. Uniformly wound over a certain length of transducer and two identical secondary coil systematically wound on either side of the primary coils and away from center. The iron rod is free to move inside the coil in either direction from the null point when primary coil is excitedly AC supply the induced emf of secondary are equal to each other with the core lying in null position. The secondary are connected in series with but in phase opposition so that resultant output voltage is zero.Displacement of core in either direction from the null position results in output voltage as read by an AC rms voltmeter and it is observed that there is a residual voltage at the null position. Due to capacitance coupling between primary and secondary and the characteristics of a linear over a limited  displacement.
 
 DIAGRAM:
-CIRCUIT DIAGRAM
+![WhatsApp Image 2026-03-19 at 17 47 59](https://github.com/user-attachments/assets/181f6bf1-9957-403d-8614-f18470491a31)
+
+![WhatsApp Image 2026-03-19 at 17 48 38](https://github.com/user-attachments/assets/97cc9e79-f0ee-4595-ba3a-28c5932b27c6)
+
+![WhatsApp Image 2026-03-19 at 17 48 57](https://github.com/user-attachments/assets/10d837f4-f020-44ba-b8df-feb3dbe4b2a0)
+
+
 PROCEDURE: -
 I. Connect the multimeter at the output of kit..
 2. Set the range to a maximum value of 10 mm.
@@ -16,8 +22,12 @@ I. Connect the multimeter at the output of kit..
 4. Value and note the corresponding values of voltages in the multimeter.
 5. Plot the graph between displacement and voltages on the graph paper.
 
+CIRCUIT DIAGRAM
 
 OBSERVATION TABLE
+![WhatsApp Image 2026-03-19 at 18 43 35](https://github.com/user-attachments/assets/dfd32bb3-f9f9-45c3-b836-bd61341e7258)
+
+![WhatsApp Image 2026-03-19 at 18 43 47](https://github.com/user-attachments/assets/e95f52d3-b347-42ac-a2f7-1c4a72f9c587)
 
 PRECAUTION: -
 1. The values on the multimeter should be carefully noted.
